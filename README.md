@@ -9,7 +9,7 @@ The [github issue tracker](https://github.com/petkaantonov/bluebird/issues) is *
 
 
 
-## Thanks
+## Thanks Gabriel Ramirez 
 
 Thanks to BrowserStack for providing us with a free account which lets us support old browsers like IE8. 
 
